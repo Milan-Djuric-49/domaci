@@ -13,3 +13,5 @@ CREATE TABLE Element (
 )
 
 DROP TABLE Element
+
+SELECT * FROM Element

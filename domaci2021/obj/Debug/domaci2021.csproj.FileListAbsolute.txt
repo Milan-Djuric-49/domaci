@@ -1,0 +1,10 @@
+C:\Users\pedja\OneDrive\Documents\GitHub\domaci\domaci2021\bin\Debug\domaci2021.exe.config
+C:\Users\pedja\OneDrive\Documents\GitHub\domaci\domaci2021\bin\Debug\domaci2021.exe
+C:\Users\pedja\OneDrive\Documents\GitHub\domaci\domaci2021\bin\Debug\domaci2021.pdb
+C:\Users\pedja\OneDrive\Documents\GitHub\domaci\domaci2021\obj\Debug\domaci2021.csprojAssemblyReference.cache
+C:\Users\pedja\OneDrive\Documents\GitHub\domaci\domaci2021\obj\Debug\domaci2021.Form1.resources
+C:\Users\pedja\OneDrive\Documents\GitHub\domaci\domaci2021\obj\Debug\domaci2021.Properties.Resources.resources
+C:\Users\pedja\OneDrive\Documents\GitHub\domaci\domaci2021\obj\Debug\domaci2021.csproj.GenerateResource.cache
+C:\Users\pedja\OneDrive\Documents\GitHub\domaci\domaci2021\obj\Debug\domaci2021.csproj.CoreCompileInputs.cache
+C:\Users\pedja\OneDrive\Documents\GitHub\domaci\domaci2021\obj\Debug\domaci2021.exe
+C:\Users\pedja\OneDrive\Documents\GitHub\domaci\domaci2021\obj\Debug\domaci2021.pdb

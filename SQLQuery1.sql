@@ -1,0 +1,15 @@
+CREATE DATABASE domaci2021
+
+USE domaci2021
+
+CREATE TABLE Element (
+	ID INT,
+	Naziv NVARCHAR(50),
+	Simbol NVARCHAR(50),
+	Masa DECIMAL(38,8),
+	AtomskiBroj INT,
+	Grupa NVARCHAR(50),
+	PRIMARY KEY (ID)
+)
+
+DROP TABLE Element
